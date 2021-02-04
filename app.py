@@ -11,7 +11,7 @@ def hello():
     return 'I am good, how about you?'
 
 @app.route('/johansen')
-def hello():
+def johansen():
     return 'Well! Hello there Mr. Johansen! Nice to see you again!'
 
 if __name__ == "__main__":
